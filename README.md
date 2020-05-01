@@ -1,5 +1,5 @@
 # phonerale
-node.js meets twilio
+node.js meets twilio for a simple IVR using TwiML
 
 prompt.js / action.js - lamdba function (node.js)
 
